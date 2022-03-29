@@ -1,0 +1,19 @@
+.container-principal {
+  height: 600px;
+  background-color: red;
+}
+
+.container-second {
+  height: 550px;
+  background-color: gray;
+}
+
+.container-title {
+  height: 550px;
+  background-color: yellow;
+}
+
+.title {
+  height: 200px;
+  background-color: gray;
+}

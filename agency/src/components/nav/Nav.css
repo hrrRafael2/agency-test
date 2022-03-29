@@ -1,0 +1,13 @@
+.container-nav-all {
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: var(--gray);
+}
+
+.button {
+  font-size: 1.5rem;
+}
